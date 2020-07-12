@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  <b>Mobile GoBarber</b>
+  <b>Mobile MeetApp</b>
 </h3>
 
 
