@@ -23,8 +23,8 @@
 Esta aplicação em React Native permite aos usuarios visualizarem os meetups por dia de criação, também permite a inscrição e o cancelamento do usuario nos meetups, além da edição do perfil.
 
 
-Veja também o **frontend**, click here: [MeetApp Frontend](https://github.com/jhonicamara/gobarber-web)<br />
-Veja também o **backend**, click here: [MeetApp API](https://github.com/jhonicamara/gobarber-api)
+Veja também o **frontend**, click here: [MeetApp Frontend](https://github.com/jhonicamara/meetapp-web)<br />
+Veja também o **backend**, click here: [MeetApp API](https://github.com/jhonicamara/meetapp-api)
 
 ## 🚀 Tecnologias
 
